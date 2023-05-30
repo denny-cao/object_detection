@@ -1,90 +1,90 @@
 item {
-  name: "Trash"
-  id: 1
+name: "Trash"
+id: 1
 }
 item {
-  name: "Trash"
-  id: 2
+name: "Trash"
+id: 2
 }
 item {
-  name: "Trash"
-  id: 3
+name: "Trash"
+id: 3
 }
 item {  
-  name: "Recycle"
-  id: 4
+name: "Recycle"
+id: 4
 }
 item {
-  name: "Recycle"
-  id: 5
+name: "Recycle"
+id: 5
 }
 item {
-  name: "Recycle"
-  id: 6
+name: "Recycle"
+id: 6
 }
 item {
-  name: "Recycle"
-  id: 7
+name: "Recycle"
+id: 7
 }
 item {
-  name: "Recycle"
-  id: 8
+name: "Recycle"
+id: 8
 }
 item {
-  name: "Recycle"
-  id: 9
+name: "Recycle"
+id: 9
 }
 item {
-  name: "Recycle"
-  id: 10
+name: "Recycle"
+id: 10
 }
 item {
-  name: "Recycle"
-  id: 11
+name: "Recycle"
+id: 11
 }
 item {
-  name: "Recycle"
-  id: 12
+name: "Recycle"
+id: 12
 }
 item {
-  name: "Recycle"
-  id: 13
+name: "Recycle"
+id: 13
 }
 item {
-  name: "Recycle"
-  id: 14
+name: "Recycle"
+id: 14
 }
 item {
-  name: "Recycle"
-  id: 15
+name: "Recycle"
+id: 15
 }
 item {
-  name: "Recycle"
-  id: 16
+name: "Recycle"
+id: 16
 }
 item {
-  name: "Recycle"
-  id: 17
+name: "Recycle"
+id: 17
 }
 item {
-  name: "Recycle"
-  id: 18
+name: "Recycle"
+id: 18
 }
 item {
-  name: "Trash"
-  id: 19
+name: "Trash"
+id: 19
 }
 item {
-  name: "Recycle"
-  id: 20
+name: "Recycle"
+id: 20
 }
 item {
-  name: "Recycle"
-  id: 21
+name: "Recycle"
+id: 21
 }
 item {
-  name: "Recycle"
-  id: 22
+name: "Recycle"
+id: 22
 }
 item {
 name: "Trash"
